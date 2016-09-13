@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimary80">#889C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorPrimaryLight">#E1BEE7</color>
+    <color name="colorAccent">#FFAB40</color>
+    <color name="primaryText">#DD000000</color>
+    <color name="secondaryText">#89000000</color>
+    <color name="hintText">#60000000</color>
+    <color name="primaryTextLight">#DDFFFFFF</color>
+    <color name="detailTitleText">#FFFFFF</color>
+    <color name="icon">#FFFFFF</color>
+    <color name="nav_icon">#666666</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="indicator_unselected">#4D000000</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ăn dặm kiểu Nhật</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_launch_screen">LaunchScreenActivity</string>
+
+    <!--Menu-->
+    <string name="nav_recipe">Công thức nấu</string>
+    <string name="nav_meal_planner">Kế hoạch ăn dặm</string>
+    <string name="nav_favorites">Món yêu thích</string>
+    <string name="nav_weaning_guide">Hướng dẫn ăn dặm</string>
+    <string name="nav_feedback">Phản hồi</string>
+    <string name="nav_policy">Điều khoản sử dụng</string>
+    <string name="nav_about_us">Về chúng tôi</string>
+
+    <!--Common-->
+    <string name="text_recipe">Công thức nấu</string>
+    <string name="text_ingredients">Nguyên liệu</string>
+    <string name="text_method">Cách làm</string>
+    <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+
+    <!--Recipe Detail-->
+    <string name="text_age">Tuổi</string>
+    <string name="text_time">Thời gian nấu</string>
+    <string name="text_category">Loại</string>
+</resources>
